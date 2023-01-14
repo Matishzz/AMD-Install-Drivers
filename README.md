@@ -8,7 +8,7 @@ This guide is intended for people who do not know much about tweaking and their 
 </p>
 
 ### Driver list 📺
-* 
+* [20.4.2 w10 & w7](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/AMD)
 * 
 * 
 
