@@ -22,7 +22,7 @@ To start we have to download the version we want to install, for now I have uplo
 * This will ask us the location of the driver that we downloaded previously unzipped we will put it
 * Activate the option "__Include subfolders__" and click "__Next__", now the driver installation will start
 
- <img src="https://s1.fileditch.ch/yskUuCldgOQqhKeudIL.png" width="900" height="500"/>
+ <img src="https://s1.fileditch.ch/yskUuCldgOQqhKeudIL.png" width="800" height="400"/>
  
  
  If this banner appears, choose the option below "Install this driver software anyway
