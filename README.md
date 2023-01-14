@@ -17,6 +17,7 @@ This guide is intended for people who do not know much about tweaking and their 
 To start we have to download the version we want to install, for now I have uploaded to Releases 4 versions of AMD along with its CNext, it is best to make a comparative benchmark with the 4 versions to see which one works best for you, also keep in mind that there are some drivers that are not compatible with some graphics cards so it will be impossible to test them.
 
 * Once we have decided which driver to install 
+* Download the Display Driver in case of w10 will be __WT6A_INF__, in w7 is called __W76A_INF__
 * All we have to do is open the __Device Manager__ (Win + R = devmgmt. msc)
 * Go to the __"Display adapters"__ section, right click on the "__Microsoft Display Adapter__" 
 * "__Update Drivers__" and choose the option "__Browse my computer for drivers__"
