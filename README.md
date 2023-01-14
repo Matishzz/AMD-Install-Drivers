@@ -13,8 +13,6 @@ This guide is intended for people who do not know much about tweaking and their 
 *
 *
 
-https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/AMD-Driver-20.8.1
-
 ### Installation 🤖
 To start we have to download the version we want to install, for now I have uploaded to Releases 4 versions of AMD along with its CNext, it is best to make a comparative benchmark with the 4 versions to see which one works best for you, also keep in mind that there are some drivers that are not compatible with some graphics cards so it will be impossible to test them.
 
