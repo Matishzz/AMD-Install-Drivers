@@ -18,7 +18,7 @@ To start we have to download the version we want to install, for now I have uplo
 
 * Once we have decided which driver to install 
 * Download the Display Driver in case of w10 will be __WT6A_INF__, in w7 is called __W76A_INF__
-* All we have to do is open the __Device Manager__ (Win + R = devmgmt. msc)
+* All we have to do is open the __Device Manager__ (Win + R = devmgmt.msc)
 * Go to the __"Display adapters"__ section, right click on the "__Microsoft Display Adapter__" 
 * "__Update Drivers__" and choose the option "__Browse my computer for drivers__"
 * This will ask us the location of the driver that we downloaded previously unzipped we will put it
