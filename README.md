@@ -24,11 +24,11 @@ To start we have to download the version we want to install, for now I have uplo
 * This will ask us the location of the driver that we downloaded previously unzipped we will put it
 * Activate the option "__Include subfolders__" and click "__Next__", now the driver installation will start
 
- <img src="https://s1.fileditch.ch/yskUuCldgOQqhKeudIL.png" width="800" height="400"/>
+ <img src="/1.png" width="800" height="400"/>
  
  
- If this banner appears, choose the option below "Install this driver software anyway
- <img src="https://s1.fileditch.ch/RqreswiBIbHplNnsshd.png" height="300"/>
+ If this banner appears, choose the option below "Install this driver software anyway"
+ <img src="https://www.isunshare.com/images/article/windows-8/install-unsigned-driver-in-windows-8-8.1-computer/click-install-this-driver-software-anyway.png" height="300"/>
 
 ### AMD software installation 🔧
 For some reason, if you need the AMD software although it is not recommended, it is possible to install it by means of a simple .msi that gives us the ccc2_install, the only thing we will have to do is to go to the Releases of the driver that you installed and download the "__ccc-next64.msi__" then we will execute the file (it has to be if or if the CNext of the same version that we have otherwise it will throw an error)
