@@ -7,9 +7,6 @@
 This guide is intended for people who do not know much about tweaking and their relationship with it is null, following the steps correctly and with awareness you will achieve an improvement in performance.
 </p>
 
-<p align="center">
-<a href="">Guide manual debloat</a>
-
 
 
 
