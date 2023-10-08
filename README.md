@@ -29,7 +29,7 @@ To start we have to download the version we want to install, for now I have uplo
 * This will ask us the location of the driver that we downloaded previously unzipped we will put it
 * Activate the option "__Include subfolders__" and click "__Next__", now the driver installation will start
 
- <img src="/1.png" width="800" height="400"/>
+ <img src="Media/DeviceManager.png" width="800" height="400"/>
 
 🔧 AMD software installation
 ---------------
