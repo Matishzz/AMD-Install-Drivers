@@ -36,8 +36,8 @@ To start we have to download the version we want to install, for now I have uplo
 ---------------
 For some reason, if you need the AMD software although it is not recommended, it is possible to install it by means of a simple .msi that gives us the ccc2_install, the only thing we will have to do is to go to the Releases of the driver that you installed and download the "__ccc-next64.msi__" then we will execute the file (it has to be if or if the CNext of the same version that we have otherwise it will throw an error)
 
-<details>
-<summary> <h2>🔗 Clean driver preparation  </h2> </summary>
+🔗 Clean driver preparation
+---------------
   
 The preparation of the AMD drivers is quite simple, the only thing you need is [7zip](https://www.7-zip.org/), install the driver you want to prepare, extract it and browse the folder `AMD-Software-Adrenalin-Edition-XX.X.X\Packages\Drivers\Display\`. After that you will find **WT6A_INF** or **W76A_INF** (in the case of win7), there is the Display Driver which is in charge of the representation of the visual information you will see. 
 
@@ -53,8 +53,6 @@ The preparation of the AMD drivers is quite simple, the only thing you need is [
 The only thing you need is the .inf, .cat and the folder BXXXXXXXX, to extract the software you have to redirect to the folder BXXXXXXXX and open with 7zip the ccc2_install.exe, inside you will see several folders the only thing you have to use is the ccc-next64.msi that is located in `CN\cnextcnext64`. Then to install the software you need to run the respective .msi and you are done.
 
 If you want to see which graphics are compatible with the driver you can open the .inf and scroll down to find the section called "Localizable Strings" or you can go to the driver page.
-
-</details>
 
 <p align="center">
   <a href="https://twitter.com/Matishzz">
