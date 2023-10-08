@@ -42,8 +42,6 @@ The preparation of the AMD drivers is quite simple, the only thing you need is [
 
 <img src="Media/WX6A_INF.png" width="500" height="300" />
 
-<br>
-
 * <b>amdfendr:</b> or AMD Crash Defender was released in version <a href="https://www.amd.com/es/support/kb/release-notes/rn-rad-win-21-4-1">21.4.1</a> and focuses on reliability and security, completely irrelevant.
 * <b>amdpcibridge:</b> or AMD PCI Bridge Device works on the PCI bridge, it is related to the management of the PCI bridge. 
 * <b>amdxe:</b> It is called AMD Link Controller Emulation and works for a mobile device to emulate a virtual controller or gamepad for games. 
