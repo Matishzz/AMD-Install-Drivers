@@ -16,6 +16,7 @@ This guide is intended for people who do not know much about tweaking and their 
 * [20.8.1 w10 & w7](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/AMD-Driver-20.8.1)
 * [21.3.1 w10 & w7](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/AMD-Driver-21.3.1)
 * [22.11.2 w10 & w11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/AMD-Driver-22.11.2)
+* [23.20.11.07 w10 & w11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/AMD-Driver-23.20.11.07)
 
 🤖 Installation
 ---------------
