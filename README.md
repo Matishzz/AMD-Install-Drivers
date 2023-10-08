@@ -53,6 +53,8 @@ The only thing you need is the .inf, .cat and the folder BXXXXXXXX, to extract t
 
 If you want to see which graphics are compatible with the driver you can open the .inf and scroll down to find the section called "Localizable Strings" or you can go to the driver page.
 
+</details>
+
 <p align="center">
   <a href="https://twitter.com/Matishzz">
     <img src="https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter" alt="Twitter">
