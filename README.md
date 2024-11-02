@@ -48,8 +48,6 @@ The preparation of the AMD drivers is quite simple, the only thing you need is [
 * <b>amdxe:</b> It is called AMD Link Controller Emulation and works for a mobile device to emulate a virtual controller or gamepad for games. 
 * <b>amdafd:</b> Also known as High Definition Audio Bus is the audio driver that AMD installs (I don't use it but someone may need it). 
 
-<br>
-
 The only thing you need is the .inf, .cat and the folder BXXXXXXXX, to extract the software you have to redirect to the folder BXXXXXXXX and open with 7zip the ccc2_install.exe, inside you will see several folders the only thing you have to use is the ccc-next64.msi that is located in `CN\cnextcnext64`. Then to install the software you need to run the respective .msi and you are done.
 
 If you want to see which graphics are compatible with the driver you can open the .inf and scroll down to find the section called "Localizable Strings" or you can go to the driver page.
