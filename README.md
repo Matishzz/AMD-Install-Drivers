@@ -41,7 +41,7 @@ For some reason, if you need the AMD software although it is not recommended, it
   
 The preparation of the AMD drivers is quite simple, the only thing you need is [7zip](https://www.7-zip.org/), install the driver you want to prepare, extract it and browse the folder `AMD-Software-Adrenalin-Edition-XX.X.X\Packages\Drivers\Display\`. After that you will find **WT6A_INF** or **W76A_INF** (in the case of win7), there is the Display Driver which is in charge of the representation of the visual information you will see. 
 
-<img src="Media/WX6A_INF.png" width="500" height="300" />
+<img src="Media/WX6A_INF.png"/>
 
 * <b>amdfendr:</b> or AMD Crash Defender was released in version <a href="https://www.amd.com/es/support/kb/release-notes/rn-rad-win-21-4-1">21.4.1</a> and focuses on reliability and security, completely irrelevant.
 * <b>amdpcibridge:</b> or AMD PCI Bridge Device works on the PCI bridge, it is related to the management of the PCI bridge. 
