@@ -21,7 +21,7 @@ After the performance pillar argument of doing extensive testing between differe
 * [20.11.2 w7 & w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/20.11.2)
 * [21.10.2 w7 w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/21.10.2)
 * [24.9.1 w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/24.9.1)
-* [24.5.1 w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/25.3.1)
+* [25.3.1 w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/25.3.1)
 
 :robot: Installation
 ---------------
