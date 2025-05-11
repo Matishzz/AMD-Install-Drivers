@@ -14,16 +14,14 @@ After the performance pillar argument of doing extensive testing between differe
 
 :tv: Driver list
 ---------------
-* [20.4.2 w7 & w10/11]
-* [20.5.1 w10/11]
-* [20.8.1 w10 & w7]
-* [20.9.1 w7 & w10/11]
-* [20.11.2 w7 & w10/11]
-* [21.3.1 w7 & w10/11]
-* [21.10.2 w7 w10/11]
-* [24.5.1 w10/11]
-* [24.9.1 w10/11]
-* [23.3.1 w10/11]
+* [20.4.2 w7 & w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/20.4.2)
+* [20.5.1 w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/20.5.1)
+* [20.8.1 w10 & w7](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/20.8.1)
+* [20.9.1 w7 & w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/20.9.1)
+* [20.11.2 w7 & w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/20.11.2)
+* [21.10.2 w7 w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/21.10.2)
+* [24.9.1 w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/24.9.1)
+* [24.5.1 w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/25.3.1)
 
 :robot: Installation
 ---------------
