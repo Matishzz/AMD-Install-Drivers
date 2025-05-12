@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-After the performance pillar's argument of doing exhaustive testing between different configurations, and driver versions among other things, I have taken the audacity to prepare the AMD drivers to only have the Display Driver and not have the irrelevant bloatware crap that nobody really wants, I also recommend using the alternative with interface called <a href="https://github.com/GSDragoon/RadeonSoftwareSlimmer">RadeonSoftwareSlimmer</a></p>
+After the performance pillar's argument of doing extensive testing between different configurations, and driver versions among other things, I have taken the audacity to prepare the AMD drivers to have only the Display Driver and not have the irrelevant bloatware crap that nobody really wants, I also recommend using the alternative interface called <a href="https://github.com/GSDragoon/RadeonSoftwareSlimmer">RadeonSoftwareSlimmer</a> or <a href="https://sourceforge.net/projects/radeon-id-distribution/files/">Radeon-ID Files</a> </p>
 
 :tv: Driver list
 ---------------
