@@ -14,17 +14,17 @@ After the performance pillar's argument of doing extensive testing between diffe
 
 :tv: Driver list
 ---------------
-* [20.4.2 w7 & w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/20.4.2)
-* [20.5.1 w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/20.5.1)
-* [20.8.1 w10 & w7](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/20.8.1)
-* [20.9.1 w7 & w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/20.9.1)
-* [20.11.2 w7 & w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/20.11.2)
-* [21.10.2 w7 w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/21.10.2)
-* [24.5.1 w10/w11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/24.5.1)
-* [24.9.1 w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/24.9.1)
-* [24.12.1 w10/w11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/24.12.1)
-* [25.1.1 w10/w11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/25.1.1)
-* [25.3.1 w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/25.3.1)
+* [20.4.2 w7 & w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/20.4.2) / [20.4.2.csv](https://github.com/Matishzz/AMD-Install-Drivers/blob/main/csv/20.4.2.csv)
+* [20.5.1 w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/20.5.1) / [20.5.1.csv](https://github.com/Matishzz/AMD-Install-Drivers/blob/main/csv/20.5.1.csv)
+* [20.8.1 w10 & w7](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/20.8.1) /  [20.8.1.csv](https://github.com/Matishzz/AMD-Install-Drivers/blob/main/csv/20.8.1.csv)
+* [20.9.1 w7 & w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/20.9.1) / [20.9.1.csv](https://github.com/Matishzz/AMD-Install-Drivers/blob/main/csv/20.9.1.csv)
+* [20.11.2 w7 & w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/20.11.2) / [20.11.2.csv](https://github.com/Matishzz/AMD-Install-Drivers/blob/main/csv/20.11.2.csv)
+* [21.10.2 w7 w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/21.10.2) / [21.10.2.csv](https://github.com/Matishzz/AMD-Install-Drivers/blob/main/csv/21.10.2.csv)
+* [24.5.1 w10/w11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/24.5.1) / [24.5.1.csv](https://github.com/Matishzz/AMD-Install-Drivers/blob/main/csv/24.5.1.csv)
+* [24.9.1 w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/24.9.1) / [24.9.1.csv](https://github.com/Matishzz/AMD-Install-Drivers/blob/main/csv/24.9.1.csv)
+* [24.12.1 w10/w11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/24.12.1) / [24.12.1.csv](https://github.com/Matishzz/AMD-Install-Drivers/blob/main/csv/24.12.1.csv)
+* [25.1.1 w10/w11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/25.1.1) / [25.1.1.csv](https://github.com/Matishzz/AMD-Install-Drivers/blob/main/csv/25.1.1.csv)
+* [25.3.1 w10/11](https://github.com/Matishzz/AMD-Install-Drivers/releases/tag/25.3.1) / [25.3.1.csv](https://github.com/Matishzz/AMD-Install-Drivers/blob/main/csv/25.3.1.csv)
 
 :robot: Installation
 ---------------
